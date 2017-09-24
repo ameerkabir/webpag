@@ -1,0 +1,91 @@
+.img-larg {
+  width: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.text {
+  color: #f0a;
+  
+ 
+}
+.silver-background {
+  background-color: silver;
+}
+.life{
+ color: rgb(80, 8,80);
+}
+.early-life{
+  color: blue;
+}
+.rebel-life{
+  color: orange;
+}
+.death{
+  color: rgb(20, 100, 100);
+}
+.final{
+  color: brown;
+}
+.link{
+  margin: 45px;
+  
+}
+.background{
+  background-color: #fef;
+}
+.container
+{
+  max-width: 960;
+  min-width: 150;
+}
+#nave {
+  
+  min-height: 50px;
+  margin: 0px;
+  padding: 0;
+  list-style: none; 
+  
+
+  
+}
+#nave li {
+  float: left;
+  display: block;
+  border-left: 4px solid white;
+  text-align: center;
+  list-style: none;
+  background: purple;
+  margin: 0  1px;
+  position: relative;
+  z-index: 500;
+
+  width: 18%;
+  line-height: 45px;
+  
+  
+  
+}
+
+  
+  
+ 
+  
+
+#nave li a{
+ text-decoration: none;
+  color: white;
+   
+    
+ 
+   
+  
+  
+}
+#title{
+  text-align: center;
+  color: green;
+  font-family: cursive;
+  
+}
